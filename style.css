@@ -1,0 +1,52 @@
+body{
+    background-color: #f2f6ff;
+
+}
+
+h1{
+    font-size: 32px;
+    padding-top: 56px;
+    padding-bottom: 32px;
+    
+}
+
+
+form{
+    background-color: white;
+    border: 1px solid rgb(11, 10, 10);
+    width: 600px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+#icon-Wraper{
+    background-color: lightblue;
+
+}
+
+.icon{
+    width: 50px;
+    height: 50px;
+    padding: 16px 32px;
+}
+
+#input-wraper{
+    padding: 80px 80px 40px 80px;
+
+}
+.input-box{
+    font-size: 18px;
+    padding:12px 0px;
+    margin-bottom:36px;
+    border: 0;
+    border-bottom: 1px solid #ccc;
+    width: 90%;
+}
+#submit-btn{
+    background-color: #0056ff;
+    padding: 12px 24px;
+    font-size: 18px;
+    color: white;
+    border:none;
+    border-radius: 10px;
+}
